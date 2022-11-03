@@ -8,9 +8,7 @@
           justify-content: flex-end;
   color: white;
   padding: .75rem;
-}
-
-.SocialsBanner-IconsContainer {
-  width: 100%;
+  max-width: 1920px;
+  margin: auto;
 }
 /*# sourceMappingURL=SocialsBanner.css.map */

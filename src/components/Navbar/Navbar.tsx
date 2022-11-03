@@ -8,6 +8,7 @@ const Navbar = () => {
     <div className="Navbar">
       <div className="Navbar-LogoContainer">
         <img className="Navbar-LogoImage" src={Logo} alt="Falkie BJJ Logo" />
+        <p className="Navbar-LogoCaption">FALKIE BJJ</p>
       </div>
       <div className="Navbar-LinksContainer">
         <ul className="Navbar-LinksList">

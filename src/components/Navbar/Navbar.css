@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;700&display=swap");
 @use "../../styles/base.scss";
 .Navbar {
   display: -webkit-box;
@@ -10,10 +11,27 @@
       -ms-flex-align: center;
           align-items: center;
   padding: .75rem;
+  max-width: 1920px;
+  margin: auto;
+}
+
+.Navbar-LogoContainer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
 
 .Navbar-LogoImage {
-  width: 40px;
+  width: 60px;
+}
+
+.Navbar-LogoCaption {
+  margin-left: .5rem;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
 }
 
 .Navbar-LinksList {
@@ -21,6 +39,9 @@
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
 
 .Navbar-Link {
