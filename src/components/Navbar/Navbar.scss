@@ -1,0 +1,47 @@
+@use "../../styles/base.scss";
+
+.Navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: .75rem;
+    // position: absolute;
+    // top: 0;
+    // left: 0;
+    // right: 0;
+    // margin-left: auto;
+    // margin-right: auto;
+
+    &-Logo {
+        &Container {
+
+        }
+
+        &Image {
+            width: 40px;
+        }
+    }
+
+    &-Links {
+        &Container {
+
+        }
+        &List {
+            list-style-type: none;
+            display: flex;
+
+        }
+    }
+
+    &-Link {
+        margin-left: 1.25rem;
+        color: #232b2b;
+        text-decoration: none;
+
+        &Item {
+            font-family: 'Oswald', sans-serif;
+            font-size: 20px;
+            font-weight: 400;
+        }
+    }
+}

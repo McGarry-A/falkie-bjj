@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACK,AAAD,iBAAM,CAAC;EACH,eAAe,EAAE,IAAI;EACrB,OAAO,EAAE,IAAI;EACb,KAAK,EAAE,IAAI;EACX,eAAe,EAAE,QAAQ;CAC5B;;AACA,AAAD,iBAAM,CAAC;EACH,KAAK,EAAE,OAAO;CACjB;;AACA,AAAD,iBAAM,CAAC;EACH,WAAW,EAAE,OAAO;EACpB,KAAK,EAAE,KAAK;CAKf;;AAPA,AAIG,iBAJE,AAID,MAAM,CAAC;EACJ,MAAM,EAAE,OAAO;CAClB",
+    "sources": [
+        "SocialIcons.scss"
+    ],
+    "names": [],
+    "file": "SocialIcons.css"
+}

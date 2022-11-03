@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,cAAc,CAAC;EACX,gBAAgB,EAAE,KAAK;EACvB,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,QAAQ;EACzB,KAAK,EAAE,KAAK;EACZ,OAAO,EAAE,MAAM;CAKlB;;AAHI,AAAD,6BAAgB,CAAC;EACb,KAAK,EAAE,IAAI;CACd",
+    "sources": [
+        "SocialsBanner.scss"
+    ],
+    "names": [],
+    "file": "SocialsBanner.css"
+}
